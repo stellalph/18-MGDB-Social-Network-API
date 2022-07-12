@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/stellalph/18-MGDB-Social-Network-API/issues"
   },
-  "homepage": "https://github.com/stellalph/18-MGDB-Social-Network-API#readme"
+  "homepage": "https://github.com/stellalph/18-MGDB-Social-Network-API#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
 }
