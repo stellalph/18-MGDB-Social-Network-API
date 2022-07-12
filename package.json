@@ -1,0 +1,20 @@
+{
+  "name": "18-mgdb-social-network-api",
+  "version": "1.0.0",
+  "description": "A Social Network API using Express.js, MongoDB database, and Mongoose ODM",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stellalph/18-MGDB-Social-Network-API.git"
+  },
+  "author": "Stella Ling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stellalph/18-MGDB-Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/stellalph/18-MGDB-Social-Network-API#readme"
+}
