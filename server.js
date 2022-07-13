@@ -1,6 +1,6 @@
 // Require express and mongoose
-const express = require ('express');
-const mongoose = require ('mongoose');
+const express = require('express');
+const mongoose = require('mongoose');
 
 const app = express();
 const PORT = process.env.PORT || 3001;
@@ -12,8 +12,8 @@ app.use(express.static('public'));
 app.use(require('./routes'));
 
 // tells mongoose which database to connect to 
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/social-network-api', {
-  useFindAndModify: false,
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/18-MGDB-Social-Network-Api', {
+  // useFindAndModify: false,
   useNewUrlParser: true,
   useUnifiedTopology: true
 });
