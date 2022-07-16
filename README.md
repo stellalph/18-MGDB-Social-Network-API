@@ -28,17 +28,14 @@ The repository name is **18-MGDB-Social-Network-API.**
 
 *  This application will use the following npm packages:-
 
-    ````````
-    npm install express
-    npm install mongoose
-    npm i moment
-    ```````
+  
+    *npm install express
+    *npm install mongoose
+    *npm i moment
 
+* Nodemon is installed as development dependency meaning that if our application ever goes in production, this package will not be included. The command to install for in this case is **npm i -D nodemon**. The purpose of this package is to watch for any changes in our files and restart the server instead of us having to do that manually ourselves. The screenshot show the working of the nodemon.
 
-
-
-
-
+   ![alt text](/assets/npmstart.png)
 
 
 
