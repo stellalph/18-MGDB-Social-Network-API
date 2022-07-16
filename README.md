@@ -10,13 +10,13 @@ This application will use Express.js for routing, a MongoDB datasbase, Mongoose 
 
 The URL of the GitHub repository is 
 ``````
-**https://github.com/stellalph/18-MGDB-Social-Network-API.git**.
+https://github.com/stellalph/18-MGDB-Social-Network-API.git.
 
 `````
 and the repository name is 
 ````
  
-**18-MGDB-Social-Network-API**.
+18-MGDB-Social-Network-API.
 ````
 ## Table of Contents
 
