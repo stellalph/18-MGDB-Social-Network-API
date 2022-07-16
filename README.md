@@ -9,15 +9,16 @@ The challenge task is to build an API for a socia network web application where 
 This application will use Express.js for routing, a MongoDB datasbase, Mongoose ODM, and also moment.js.
 
 The URL of the GitHub repository is 
-``````
-https://github.com/stellalph/18-MGDB-Social-Network-API.git.
-
-`````
-and the repository name is 
-````
  
-18-MGDB-Social-Network-API.
-````
+
+**https://github.com/stellalph/18-MGDB-Social-Network-API.git.**
+
+
+and the repository name is 
+
+
+**18-MGDB-Social-Network-API.**
+
 ## Table of Contents
 
 * [Installation](#installation)
