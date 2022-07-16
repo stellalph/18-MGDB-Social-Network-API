@@ -42,7 +42,7 @@ The repository name is **18-MGDB-Social-Network-API.**
 
     ![alt text](/assets/FindallUsers.png)
 
-* This homework 's assignment also required MongoDB to be installed.   Below shows that when the server is started, the mongoose are synced to the MongoDB database. 
+* This project also required MongoDB to be installed.   Below shows that when the server is started, the mongoose are synced to the MongoDB database. 
 
     ![alt text](/assets/MongoDB1.png)
     ![alt text](/assets/MongoDB2.png)
