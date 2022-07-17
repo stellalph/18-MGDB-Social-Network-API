@@ -53,6 +53,18 @@ The repository name is **18-MGDB-Social-Network-API.**
 
 ## Walkthrough Video
 
+* Part 1 Walkthrough Video 
+
+        -  The walkthrough video must show all of the technical acceptance criteria being met.
+
+        -  The walkthrough video must demonstrate how to start the application’s server.
+
+        -  The walkthrough video must demonstrate GET routes for all users and all thoughts being tested in Insomnia.
+
+        - The walkthrough video must demonstrate GET routes for a single user and a single thought being tested in Insomnia.
+
+[Part 1 - Walkthrough Video Link](https://drive.google.com/file/d/18jZNciFgGTbS0WxOzTsNVzdtc8ck7oPk/view)
+
 
 ## Usage
 
