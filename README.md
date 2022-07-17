@@ -38,15 +38,18 @@ The repository name is **18-MGDB-Social-Network-API.**
 
    ![alt text](/assets/npmstart.png)
 
-* After the API have been created,  data would then be created through Insomnia.  The overview of data is shown below:-
 
-    ![alt text](/assets/FindallUsers.png)
 
-* This project also required MongoDB to be installed.   Below shows that when the server is started, the mongoose are synced to the MongoDB database. 
+* This project also required MongoDB to be installed.   As would be the *USER STORY* who want an API that uses a NoSQL database, MongoDB is a general purpose NoSQL document database that uses documents to store data.  MongoDB stores data as a BSON object, making a great fit for JavaScript apps.  In this application, the user want the website to handle large mounts of unstructured data and MongoDB is a great choice for *heterogeneous data*, and scales easily. Below shows that when the server is started, the mongoose models are synced to the MongoDB database. 
 
     ![alt text](/assets/MongoDB1.png)
     ![alt text](/assets/MongoDB2.png)
 
+* After the API have been created,  data would then be created through Insomnia.  The overview of data is shown below:-
+
+    ![alt text](/assets/FindallUsers.png)
+
+* The data created also synced to the MongoDB database.
 
 ## Video
 ## Usage
