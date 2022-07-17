@@ -87,6 +87,55 @@ The repository name is **18-MGDB-Social-Network-API.**
 
 ## Usage
 
+* To start the application 's server and at the command prompt, the user is to type "npm run start".
+
+* When the user open API GET routes in Insomnia for users and thoughts, the data for each of these routes is displayed in a formatted JSON as shown below:-
+
+*GET - Find all users :-*
+
+ ![alt text](/assets/UGetAllUsers.png)
+
+*GET - Find user by ID :-*
+
+ ![alt text](/assets/UserByID.png)
+
+*GET - All Thoughts :-*
+
+ ![alt text](/assets/GetAllThoughts.png)
+
+*GET - Thought by ID :-*
+
+![alt text](/assets/ThoughtbyID.png)
+
+* When the user test API POST, PUT, and DELETE routes in Insomnia, then the user is able to successfully create, update, and delete users and thoughts in my database:-
+
+*POST - Create New User*
+
+![alt text](/assets/NewUser.png)
+
+*PUT - Update User*
+
+![alt text](/assets/UpdateUser.png)
+
+*DEL - Delete User*
+
+![alt text](/assets/DeleteUser.png)
+
+*POST - Create Thought*
+
+![alt text](/assets/CreateThought.png)
+
+*PUT - Update Thought*
+
+![alt text](/assets/UpdateThought.png)
+
+*DEL - Delete Thought*
+
+![alt text](/assets/DeleteThoughts.png)
+
+*   When the user test the API POST and DELETE routes in Insomnia, the user is able to successfully create and delete reactions to thoughts, add and remove friends to a user's friends list.
+
+
 
 
 ## References
