@@ -75,20 +75,24 @@ The repository name is **18-MGDB-Social-Network-API.**
 
 *   To demonstrate POST, PUT and DELETE routes for thoughts tested in Insomnia.
 
-[Part 4 - Walkthrough Video Link](https://drive.google.com/file/d/1F50sryfj_tg_iRRg3lhhEREvg98zzyVS/view)
+[Part 4 - Walkthrough Video Link](https://drive.google.com/file/d/1reF4AqvVlx1YkmFVSexkNf4rlEBZ2Ig6/view)
 
 *   To demonstrate POST and DELETE routes for a user's friend list being tested in Insomnia.
 
 *   To demonstrate POST and DELETE routes for reactions to thoughts being tested in Insomnia.
 
-*   Overview of MongoDB and the Mongoose models are synced to the MongoDB database.
+[Part 5 - Walkthrough Video Link](https://drive.google.com/file/d/1HGdKc_NiDh-UdqZQajS23cHy5P4TAQDq/view)
 
+*   Overview of MongoDB and the Mongoose models are synced to the MongoDB database.
 
 
 ## Usage
 
 
+
 ## References
+*  Request - Response : The Full Stack Blog - How to install MongoDB dd July 01, 2022
+*  
 
 
 ## License
