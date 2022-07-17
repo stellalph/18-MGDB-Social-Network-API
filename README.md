@@ -105,7 +105,7 @@ The repository name is **18-MGDB-Social-Network-API.**
 
 *GET - Thought by ID :-*
 
-![alt text](/assets/ThoughtbyID.png)
+![alt text](/assets/GetThoughtbyID.png)
 
 * When the user test API POST, PUT, and DELETE routes in Insomnia, then the user is able to successfully create, update, and delete users and thoughts in my database:-
 
