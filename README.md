@@ -16,7 +16,7 @@ The repository name is **18-MGDB-Social-Network-API.**
 ## Table of Contents
 
 * [Installation](#installation)
-* [Video](#video)
+* [Walkthrough Video](#walkthrough-video)
 * [Usage](#usage)
 * [References](#references)
 * [License](#license)
@@ -51,7 +51,15 @@ The repository name is **18-MGDB-Social-Network-API.**
 
 * The data created also synced to the MongoDB database.
 
-## Video
+## Walkthrough Video
+
+
 ## Usage
+
+
 ## References
+
+
 ## License
+
+This project is licensed under the terms of the MIT license.
