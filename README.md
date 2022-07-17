@@ -16,7 +16,7 @@ The repository name is **18-MGDB-Social-Network-API.**
 ## Table of Contents
 
 * [Installation](#installation)
-* [Walkthrough Video](#walkthrough-video)
+* [Walkthrough Videos](#walkthrough-videos)
 * [Usage](#usage)
 * [References](#references)
 * [License](#license)
@@ -51,20 +51,30 @@ The repository name is **18-MGDB-Social-Network-API.**
 
 * The data created also synced to the MongoDB database.
 
-## Walkthrough Video
+## Walkthrough Videos
 
 [Part 1 - Walkthrough Video Link](https://drive.google.com/file/d/18jZNciFgGTbS0WxOzTsNVzdtc8ck7oPk/view)
 
 *   To show all of the technical acceptance criteria being met :-
-        -  models (User, Thought, and index.js) 
-        -  controllers (user-controller.js, thought-controller.js)
-        -  api (user-routes, thought-routes, index.js), index.js
-        -  package.json showing the npm packages installed
-        -  server.js (connection URL and configuration)
+            *  models (User, Thought, and index.js), 
+            *  controllers (user-controller.js, thought-controller.js),
+            *  api (user-routes, thought-routes, index.js), index.js,
+            *  package.json showing the npm packages installed,
+            *  server.js (connection URL and configuration).
 
-*   To demonstrate the GET routes for all users and all thoughts being tested in Insomnia
+*   To demonstrate the GET routes for all users and all thoughts being tested in Insomnia.
 
-*   To demonstrate the GET routes for a single user and a single thought tested in Insomnia
+*   To demonstrate the GET routes for a single user and a single thought tested in Insomnia.
+
+[Part 2 - Walkthrough Video Link](https://drive.google.com/file/d/18jZNciFgGTbS0WxOzTsNVzdtc8ck7oPk/view)
+
+*   To demonstrate POST, PUT and DELETE routes for users and thoughts tested in Insomnia.
+
+*   To demonstrate POST and DELETE routes for a user's friend list being tested in Insomnia.
+
+*   To demonstrate POST and DELETE routes for reactions to thoughts being tested in Insomnia.
+
+*   Overview of MongoDB and the Mongoose models are synced to the MongoDB database.
 
 
 
