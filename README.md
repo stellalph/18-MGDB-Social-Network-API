@@ -135,15 +135,26 @@ The repository name is **18-MGDB-Social-Network-API.**
 
 *   When the user test the API POST and DELETE routes in Insomnia, the user is able to successfully create and delete reactions to thoughts, add and remove friends to a user's friends list.
 
+*POST -  Add Friend*
+![alt text](/assets/AddFriend.png)
 
+*DEL -  Remove Friend*
+![alt text](/assets/RemoveFriend.png)
 
+*POST -  Create Reaction*
+![alt text](/assets/CreateReaction.png)
+
+*DEL -  Delete Reaction*
+![alt text](/assets/DeleteReaction.png)
+
+*  The user would also be able to see the data synced to MongoDB database, for example, the thoughts and reactions.
+![alt text](/assets/MongoDB3.png)
 
 ## References
 *  Request - Response : The Full Stack Blog - How to install MongoDB dated July 01, 2022
 *  Introduction to Mongoose for MongoDB by Nick Karnik dated February 11, 2018
 *  Module 18 Coding Boot Camp  - NoSQL
 *  MongoDB Crash Course - Traversy Media
-
 
 ## License
 
