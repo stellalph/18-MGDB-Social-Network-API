@@ -55,16 +55,16 @@ The repository name is **18-MGDB-Social-Network-API.**
 
 [Part 1 - Walkthrough Video Link](https://drive.google.com/file/d/18jZNciFgGTbS0WxOzTsNVzdtc8ck7oPk/view)
 
-        -   To show all of the technical acceptance criteria being met :-
-             *  models (User, Thought, and index.js) 
-             *  controllers (user-controller.js, thought-controller.js)
-             *  api (user-routes, thought-routes, index.js), index.js
-             *  package.json showing the npm packages installed
-             *  server.js (connection URL and configuration)
+*   To show all of the technical acceptance criteria being met :-
+        -  models (User, Thought, and index.js) 
+        -  controllers (user-controller.js, thought-controller.js)
+        -  api (user-routes, thought-routes, index.js), index.js
+        -  package.json showing the npm packages installed
+        -  server.js (connection URL and configuration)
 
-        -   To demonstrate the GET routes for all users and all thoughts being tested in Insomnia
+*   To demonstrate the GET routes for all users and all thoughts being tested in Insomnia
 
-        -   To demonstrate the GET routes for a single user and a single thought tested in Insomnia
+*   To demonstrate the GET routes for a single user and a single thought tested in Insomnia
 
 
 
