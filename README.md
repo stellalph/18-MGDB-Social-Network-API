@@ -67,9 +67,15 @@ The repository name is **18-MGDB-Social-Network-API.**
 
 *   To demonstrate the GET routes for a single user and a single thought tested in Insomnia.
 
-[Part 2 - Walkthrough Video Link](https://drive.google.com/file/d/18jZNciFgGTbS0WxOzTsNVzdtc8ck7oPk/view)
+[Part 2 - Walkthrough Video Link](https://drive.google.com/file/d/1F50sryfj_tg_iRRg3lhhEREvg98zzyVS/view)
 
-*   To demonstrate POST, PUT and DELETE routes for users and thoughts tested in Insomnia.
+*   To demonstrate POST, PUT and DELETE routes for users tested in Insomnia.
+
+[Part 3 - Walkthrough Video Link](https://drive.google.com/file/d/1F50sryfj_tg_iRRg3lhhEREvg98zzyVS/view)
+
+*   To demonstrate POST, PUT and DELETE routes for thoughts tested in Insomnia.
+
+[Part 4 - Walkthrough Video Link](https://drive.google.com/file/d/1F50sryfj_tg_iRRg3lhhEREvg98zzyVS/view)
 
 *   To demonstrate POST and DELETE routes for a user's friend list being tested in Insomnia.
 
