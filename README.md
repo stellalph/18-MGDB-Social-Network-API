@@ -85,14 +85,15 @@ The repository name is **18-MGDB-Social-Network-API.**
 
 *   Overview of MongoDB and the Mongoose models are synced to the MongoDB database.
 
-
 ## Usage
 
 
 
 ## References
-*  Request - Response : The Full Stack Blog - How to install MongoDB dd July 01, 2022
-*  
+*  Request - Response : The Full Stack Blog - How to install MongoDB dated July 01, 2022
+*  Introduction to Mongoose for MongoDB by Nick Karnik dated February 11, 2018
+*  Module 18 Coding Boot Camp  - NoSQL
+*  MongoDB Crash Course - Traversy Media
 
 
 ## License
